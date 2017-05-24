@@ -15,7 +15,7 @@ CREATE TABLE IF NOT EXISTS collections (
   KEY (added),
   KEY (updated),
   KEY (removed),
-  KEY (repository_id),
+  KEY (repository_id)
 ) ENGINE=InnoDB CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 CREATE TABLE IF NOT EXISTS repositories (
