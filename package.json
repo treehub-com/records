@@ -1,0 +1,25 @@
+{
+  "name": "@treehub/records",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Site, schema, and utilities for records.treehub.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treehub-com/records.git"
+  },
+  "keywords": [],
+  "author": "John Clark <john@treehub.com>",
+  "license": "NONE",
+  "bugs": {
+    "url": "https://github.com/treehub-com/records/issues"
+  },
+  "homepage": "https://github.com/treehub-com/records#readme",
+  "dependencies": {
+    "moment": "2.18.1",
+    "mysql": "2.13.0",
+    "node-fetch": "2.0.0-alpha.4"
+  }
+}
